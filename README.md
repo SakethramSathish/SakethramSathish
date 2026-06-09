@@ -5,7 +5,8 @@
 
 ### 🧠 About Me
 
-- 🎓 B.Tech CSE @ VIT Vellore  
+- 🎓 B.Tech CSE @ VIT Vellore
+- 💼 AI Automation Intern @ Anthem Biosciences
 - 💼 Former AI Intern @ Siemens  
 - 🤖 Building Agentic AI Systems & LLM Applications  
 - 🚀 Passionate about real-world AI products  
